@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aerogear-android-todo
+  annotations:
+    github.com/project-slug: lholmquist/aerogear-android-todo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/lholmquist
